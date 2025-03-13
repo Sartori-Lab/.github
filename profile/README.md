@@ -1,4 +1,4 @@
-# Sartori Lab
+# Sartori Lab (Living Physics Group)
 
 Group website: https://www.sartorilab.org/
 
